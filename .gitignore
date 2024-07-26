@@ -1,0 +1,8 @@
+# apikeys and secrets
+.env
+
+# all csv files to store them in dvc to reduce data usage
+data/*.csv
+
+# files related to fastapi
+**__pycache__**
